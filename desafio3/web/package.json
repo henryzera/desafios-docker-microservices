@@ -1,0 +1,13 @@
+{
+  "name": "desafio3-web",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "pg": "^8.11.0",
+    "redis": "^4.6.0"
+  }
+}
