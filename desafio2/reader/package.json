@@ -1,0 +1,12 @@
+{
+  "name": "reader-service",
+  "version": "1.0.0",
+  "main": "reader.js",
+  "scripts": {
+    "start": "node reader.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6",
+    "express": "^4.19.0"
+  }
+}
